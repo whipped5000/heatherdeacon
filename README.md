@@ -5,5 +5,3 @@
 ## Facebook Condolences
 
 ![Condolences](https://github.com/whipped5000/heatherdeacon/raw/main/mum.gif)
-
-https://github.com/whipped5000/heatherdeacon/raw/main/output.mov
