@@ -2,6 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-h1, h2, h3, img {
+h1, h2, h3 {
    text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
