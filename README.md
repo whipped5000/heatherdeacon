@@ -4,4 +4,4 @@
 
 ## Facebook Condolences
 
-![Condolences](https://user-images.githubusercontent.com/4007934/217573276-75e1afe7-302f-49c9-aae3-5174804763b2.mov)
+https://user-images.githubusercontent.com/4007934/217573276-75e1afe7-302f-49c9-aae3-5174804763b2.mov
