@@ -13,7 +13,7 @@ As we look upon her picture,
 Sweet memories we recall,  
 Of a face so full of sunshine,  
 And a smile for one and all.  
-Sweet Jesus take this message,  
+Will everyone take this message,  
 To our dear mother up above,  
 Tell her how we miss her,  
 And give her all our love.
