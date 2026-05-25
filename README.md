@@ -1,6 +1,7 @@
 # Heather Victoria Deacon
+# (25/05/1942 - 02/02/2023)
 
-# Happy 84th Birthday Mum - We all miss you
+## Happy 84th Birthday Mum - We all miss you
 > You can only have one mother,  
 Patient, kind and true,  
 No other friend in all the world,  
@@ -17,8 +18,6 @@ Will everyone take this message,
 To our dear mother up above,  
 Tell her how we miss her,  
 And give her all our love.
-
-# (25/05/1942 - 02/02/2023)
 
 ![Mum](https://raw.githubusercontent.com/whipped5000/heatherdeacon/main/20220525_131922.jpg)
 
